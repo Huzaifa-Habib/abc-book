@@ -1,0 +1,361 @@
+@font-face{
+
+    font-family: 'gorilla';
+    src: url(./fonts/Gorilla.otf);
+}
+
+    @font-face{
+    font-family: 'rename';
+    src: url(./fonts/rename.otf);
+}
+
+@font-face {
+    font-family: 'sunset' ;
+    src: url(./fonts/Sunset.otf);
+}
+
+@font-face {
+    font-family: 'good';
+    src: url(./fonts/good.otf);
+}
+
+
+body{
+    padding: 0px;
+    margin: 0;
+    border: 1px solid slategray;
+    background-color: peachpuff;
+
+}
+
+
+.main{
+    font-family: good;
+    color: green;
+    font-size: 40px;
+    text-align: center;
+    word-spacing: 0.5em;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.alpha{
+    font-family: sunset;
+    word-spacing: 1em;
+    text-align: center;
+    color: brown;
+    background-color: gainsboro;
+    font-size: 30px;
+
+}
+
+
+.class{
+    text-decoration: underline;
+    padding: 15px;
+}
+
+
+.a{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: brown;
+    background-color:lightyellow;
+    width: 200px;
+   
+
+}
+
+.b{font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color:rgba(255, 81, 0, 0.555);
+    background-color:lightyellow;
+    width: 200px;
+    
+
+}
+
+.c{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: rgb(165, 81, 42);
+    background-color:lightyellow;
+    width: 200px;
+    
+    
+}
+
+.d{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: rgb(165, 116, 42);
+    background-color:lightyellow;
+    width: 200px;
+    
+
+}
+
+.e{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: rgba(128, 128, 128, 0.966);
+    background-color:lightyellow;
+    width: 200px;
+    
+
+}
+
+
+.f{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: rgb(255, 81, 0);
+    background-color:lightyellow;
+    width: 200px;
+}
+
+
+.g{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: rgba(165, 77, 42, 0.534);
+    background-color:lightyellow;
+    width: 200px;
+}
+
+
+.h{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: red;
+    background-color:lightyellow;
+    width: 200px;
+}
+
+
+.i{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: royalblue;
+    background-color:lightyellow;
+    width: 200px;
+}
+
+
+.j{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: blueviolet;
+    background-color:lightyellow;
+    width: 200px;
+}
+
+
+.k{font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: aqua;
+    background-color:lightyellow;
+    width: 200px;
+
+}
+
+
+
+
+.l{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: yellowgreen;
+    background-color:lightyellow;
+    width: 200px;
+}
+
+
+.m{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: rgb(30, 255, 0);
+    background-color:lightyellow;
+    width: 200px;
+}
+
+
+
+.n{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: brown;
+    background-color:lightyellow;
+    width: 200px;
+}
+
+
+
+.o{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: orange;
+    background-color:lightyellow;
+    width: 200px;
+}
+
+
+
+.p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: rgb(0, 128, 58);
+    background-color:lightyellow;
+    width: 200px;
+}
+
+
+
+.q{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: black;
+    background-color:lightyellow;
+    width: 200px;
+}
+
+
+
+.r{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: silver;
+    background-color:lightyellow;
+    width: 200px;
+}
+
+
+.s{font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: rgb(255, 0, 0);
+    background-color:lightyellow;
+    width: 200px;
+}
+
+
+.t{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: brown;
+    background-color:lightyellow;
+    width: 200px;
+}
+
+
+.u{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: rgb(227, 192, 255);
+    background-color:lightyellow;
+    width: 200px;
+}
+
+
+
+.v{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: blue;
+    background-color:lightyellow;
+    width: 200px;
+}
+
+
+
+.w{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: slategray;
+    background-color:lightyellow;
+    width: 200px;
+}
+
+
+.x{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: brown;
+    background-color:lightyellow;
+    width: 200px;
+}
+
+
+.y{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: rgba(51, 16, 16, 0.904);
+    background-color:lightyellow;
+    width: 200px;
+}
+
+
+.z{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: darkgray;
+    background-color:lightyellow;
+    width: 200px;
+}
+
+
+
+.top{
+    margin-left: 90%;
+    background-color: rgba(232,23,123,0.3);
+    font-family: arial;
+    font-size: 2.5em;
+    color: wheat;
+    position: fixed;
+    border-radius: 3px 25px 3px 25px;
+    text-decoration: none;
+    padding: 10px;
+}
+
+
+.form{
+    border: 1px solid gray;
+    width: 900px;
+    background-color: rgba(128, 0, 128, 0.253);
+    color: rgb(76, 253, 76);
+    padding: 20px;
+    text-align: left;
+    
+
+}
+
+.para{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+
+.review{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-decoration: underline;
+    text-transform: capitalize;
+    color: brown;
+}
+
+.gmail{
+    color: black;
+    font-size: 20px;
+}
+
+.submit{
+    width: 100px;
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: oblique;
+    padding: 8px;
+    margin-top: 10px;
+    display: inline;
+    margin-left: 30px;
+}
